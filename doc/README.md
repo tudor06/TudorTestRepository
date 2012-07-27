@@ -2,7 +2,7 @@
 
 This repository contains information on the developments in the upcoming SData 2.0 release. 
 
-You may find the following information interesting:
+You may find the following information interesting (click on the links to download directly):
 
 * [Approach](https://github.com/tudor06/TudorTestRepository/blob/master/doc/SData%202.0%20approach%20-%20v%20101.pdf?raw=true): The SData 2.0 approach document presents a number of key statements and goals that guide the current development of the standard
 
