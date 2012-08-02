@@ -20,23 +20,32 @@
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
         <h1>Welcome ! </h1>
-        <p>This repository provides primarily technical information on the
-          upcoming version 2.0 of the standard.</p>
+        <p>This repository provides technical information on the upcoming
+          version 2.0 of the standard.</p>
+        <p>SData is to be understood as a web toolkit promoting the development
+          of REST-orientated services and their consumption. Centered around a
+          small, standards-based core (HTTP, ATOM, JSON), SData provides a
+          choice of mechanisms solving common challenges in a consistent manner.<br>
+        </p>
         <p>SData is successfully used to deliver a number of key projects and is
           recognized as an important building block in the Sage technology
           strategy. The version 2.0 of the standard focuses its attention on
           needs beyond the traditional application integration - it delivers
           additions aimed towards the needs of web product- and interface
-          definitions.</p>
+          definitions. <br>
+        </p>
+        <p><br>
+        </p>
         <p>The focal points of the new release are:</p>
         <ul>
           <li>Specification of the JSON format for SData information exchanges</li>
-          <li>Decrease the number of restrictive aspects imposed by SData,aiming
-            for a smaller and better defined core of the specification</li>
+          <li>Decrease the number of restrictive aspects imposed by SData
+            resulting in a smaller and better defined specification core</li>
           <li>Maintain compatibility with the SData 1.1 version, ensuring that
             SData 1.1 implementations are automatically version 2.0 compliant</li>
           <li>Clarify the role and form of contracts</li>
-          <li> Stress the freedom of choice for development teams and architects</li>
+          <li> Reorganization of the standard, stressing the freedom of choice
+            for development teams and architects</li>
         </ul>
         <ul>
         </ul>
@@ -47,11 +56,11 @@
         continue to update and extend the information as we make progress
         towards the release. <br>
         <p></p>
-        <p>We are happy to welcome you to <a href="https://github.com/tudor06/TudorTestRepository">our
+        <p>We are happy to welcome you to <a href="https://github.com/tudor06/TudorTestRepository/tree/master/doc">our
             file repository.</a><br>
           <br>
         </p>
-        <p>SData related projects of interest:<br>
+        <p>You may also find these SData related projects of interest:<br>
         </p>
         <ul>
           <li><a href="https://github.com/Sage/argos-sdk">Argos-SDK</a>:
